@@ -1,4 +1,4 @@
-# Project Title
+# Widgets
 
 This repository contains small components that can be used in your web development projects.
 For each component, just open index.html and get started!
