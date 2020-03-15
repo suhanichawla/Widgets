@@ -11,4 +11,10 @@ A set of images presented with good animations and hovering effects. A quick add
 ### 2. Sun Animation
 Sun animation: rising and setting. Made using css keyframes.
 
+### 3. Sidebar
+A sidebar made using CSS flexbox.
+
+### 4. Navbar
+A responsive navbar using CSS flexbox.
+
 --- 
