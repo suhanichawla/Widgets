@@ -17,4 +17,7 @@ A sidebar made using CSS flexbox.
 ### 4. Navbar
 A responsive navbar using CSS flexbox.
 
+### 5. Bitcoin Price Generator
+Get the latest bitcoin proce in USD,GBP OR EUR! It fetches data from coindesk API to bring you the most updated bitcoin price.
+
 --- 

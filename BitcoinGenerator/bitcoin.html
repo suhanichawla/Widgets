@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bitcoin Price</title>
+    <style>
+        span {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bitcoin Current Price is: <span id="price"></span></h1>
+    USD<input type="radio" name="currency" value="USD" checked>
+    GBP<input type="radio" name="currency" value="GBP">
+    EUR<input type="radio" name="currency" value="EUR">
+    <hr>
+    <button id="btn">Refresh Data</button>
+    <script src="./bit.js"></script>
+</body>
+</html>
